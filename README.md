@@ -18,8 +18,8 @@
           </div>
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=yumni-song&custom_title=yumni-song's Github Stat&bg_color=180,f79aaf,00000000&title_color=000000&text_color=000000"
-        /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumni-song&layout=compact&bg_color=180,f79aaf,00000000&title_color=000000&text_color=000000"
-          /> </div> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=yumni-song&bg_color=60,f79aaf,f79aaf&title_color=000000&text_color=000000"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumni-song&layout=compact&bg_color=60,f79aaf,f79aaf&title_color=000000&text_color=000000"
+           /> </div> 
     </div>
     
